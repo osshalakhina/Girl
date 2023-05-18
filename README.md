@@ -1,6 +1,6 @@
 # Girl
 
-Illustrations with girl made in Adobe Illustrator and gif animation made in Adobe Photoshop.
+Illustrations with girl created in Adobe Illustrator and gif animation created in Adobe Photoshop.
 
 # Preview
 
